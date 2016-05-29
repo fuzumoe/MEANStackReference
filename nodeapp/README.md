@@ -13,7 +13,7 @@ MEAN stack app  was made to have a simple skeleton for a completed Web App ready
 All of the MVC pieces are built, but are also rudimentary and not flashy. The root of our webapp goes to the express.js landing page, but there is a schema created for a new object called `blobs`. To access `blobs`, follow the route that is already in place by going to `http://127.0.0.1:3000/blobs`.
 
 Add a new blob by going to `http://127.0.0.1:3000/blobs/new`. 
-<center><img src="https://s3.amazonaws.com/kennyonetime/blob_new.png" width="400"></center>
+<center><img src="https://lh3.googleusercontent.com/OeLGdiEdE4StkugUB7XnaBKcnVD0tx5lOs1v8cpHU0JjPTYTROBvwZcXW_I7FVkmCFEC8MNPsC7RkJynZoAthQ5Q2zJppVUCyX0a2sk9_hURMVrqGDrltZq6QybfUKwo4Qz8FmDLAi7MFN30QWE4NF3AEwBN3-YaNaEVwJbj_zv9qzPFduV9Uzwq614WWqxszbb3kqLx_RWViIOcDpg8CSLPp_ItZmibYMUKM6YWCjnrzWJI3yWK12A8THiO7yt5enV2KyQ1tZ-AFXASG-AwETZ_hXOmn3iwHLHITUAQfSAsh7kPe1QZ2b-95DbP-tIak1WB2g5EUWMTkr4QXs4EUEXnw3ZHGYhIsZ4hl3NZW7FiaVugkwo0JVnMDAOdV1RYA6KDOX0zVK3Hhvq7sX3NEhDvwS0aIdEXcAWB7tL9WkkoqwYFlznXPm1WlaGnLF9kOlVJc-i2RmAvToKUPOd2weo1QlE4HUW-2R9E0LAzSMlJyY1Xqu1a6eIe7u5O8dM1e8O6TTdsK4UGjE-cMtzC1TeZiep1yd2RgXeFZ_QtareA7RJeZTiP-nOyUJGGcIG0qUDhFN6IZ9iIq2h8IBrDDx3VuK5YLiw=s600-no" width="400"></center>
 
 After submitting, this will take you back to the index page where you can now `Show` or `Edit` or `Delete` that blob record from the UI
 <center><img src="https://s3.amazonaws.com/kennyonetime/blob_all.png" width="600"></center>
